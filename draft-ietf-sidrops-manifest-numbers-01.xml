@@ -260,8 +260,8 @@ ipr="trust200902" updates="RFC9286" consensus="true">
             id-ad-signedObject accessMethods in the manifest's Subject
             Information Access (SIA) extension exactly matches the URI
             presented in the RPKI Repository Delta Protocol (RRDP)
-            <xref target="RFC8182" /> "publish" element or the path
-            presented by remote rsync servers.
+            <xref target="RFC8182" /> "publish" element or the URI
+            accessed on the remote rsync source server.
 
         </t>
 
